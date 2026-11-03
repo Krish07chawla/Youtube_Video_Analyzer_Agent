@@ -6,7 +6,7 @@ The application uses an AI agent to transform lengthy YouTube videos into organi
 
 ## 🚀 Live Demo
 
-**Try the application:** [YouTube Video Analyzer – Streamlit App](ADD_YOUR_STREAMLIT_URL_HERE)
+**Try the application:** [YouTube Video Analyzer – Streamlit App](https://krish07chawla-youtube-video-analyzer-agent-ui-9okqgw.streamlit.app/)
 
 ## ✨ Features
 
